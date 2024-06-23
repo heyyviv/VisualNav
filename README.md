@@ -14,5 +14,4 @@ Python 3.x
 OpenCV (pip install opencv-python)
 NumPy (pip install numpy)
 Other dependencies as specified in requirements.txt
-
-[![Watch the video](https://img.youtube.com/vi/QVjUtX0UvVM/maxresdefault.jpg)](https://youtu.be/QVjUtX0UvVM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QVjUtX0UvVM?si=07HsMNF3LBcfkaop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
